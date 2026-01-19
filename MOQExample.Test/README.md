@@ -4,10 +4,10 @@
 
 ```bash
 
-cd /home/hct/Repos/github.com/harishthakuri/TDDWithMOQ && dotnet test MOQExample.Test/MOQExample.Test.csproj --verbosity normal
+dotnet test MOQExample.Test/MOQExample.Test.csproj --verbosity normal
 
 
-cd /home/hct/Repos/github.com/harishthakuri/TDDWithMOQ && dotnet test MOQExample.Test/MOQExample.Test.csproj --verbosity normal
+dotnet test MOQExample.Test/MOQExample.Test.csproj --verbosity normal
 
 ```
 
